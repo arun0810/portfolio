@@ -1,0 +1,60 @@
+body {
+  background-color: black;
+  font-family: 'Trebuchet MS';
+  color: white;
+}
+
+hr {
+  color: #F190B7;
+  border: solid;
+  margin: 0;
+/*  border-top: dashed;*/
+  border-width: 2px;
+
+}
+
+h1, h3 {
+  color: #8785A2;
+}
+.fa {
+  color: white;
+}
+
+table {
+  border-spacing: 20px;
+}
+.footer {
+  font-family: monospace;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+.quotes{
+  text-align: center;
+  font-family: 'TW cen MT';
+  font-size: 100px;
+  color: grey;
+  margin-top: 30px;
+}
+.skills {
+  font-family: 'TW cen MT';
+  color: #826F66;
+  font-size: 30px;
+  padding-left: 45px;
+  padding-right: 45px;
+  align-items: center;
+  text-align: center;
+}
+.sentences{
+  font-size: 50px;
+  font-family: 'TW cen MT';
+  color: pink;
+}
+#name {
+color: #9C0F48;
+  font-family: 'Tw Cen MT';
+  font-size: 80px;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  letter-spacing: 15px;
+}
